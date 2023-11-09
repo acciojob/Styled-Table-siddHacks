@@ -1,1 +1,18 @@
 /* your code */
+thead > tr{
+	background-color:#256;
+}
+th,td{
+	height:30px;
+	width:100px;
+	padding:3px;
+	text-align:left;
+}
+th{
+	color:red;
+}
+td{
+	color:blue;
+	background-color:#693;
+}
+
